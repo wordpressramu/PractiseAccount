@@ -8,8 +8,8 @@ AngularJS<br>
 VIM<br>
 
 SFDC<br>
-	VisualForce
-	Apex
-	SOQL
-	lightning
-	Magento integrations
+	VisualForce<br>
+	Apex<br>
+	SOQL<br>
+	lightning<br>
+	Magento integrations<br>
