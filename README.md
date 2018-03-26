@@ -6,3 +6,10 @@ DJango<br>
 Flask<br>
 AngularJS<br>
 VIM<br>
+
+SFDC<br>
+	VisualForce
+	Apex
+	SOQL
+	lightning
+	Magento integrations
