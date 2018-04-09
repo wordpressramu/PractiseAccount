@@ -12,3 +12,11 @@ https://www.primefaces.org <br>
 ===========================Javascript===========================<br>
 https://github.com/TechBookHunter/Free-Web-Development-Books <br>
 https://mage2gen.com/
+
+
+http://yeoman.io/codelab/setup.html<br>
+http://sinonjs.org/<br>
+http://phantomjs.org//<br>
+
+
+http://sebastians-pamphlets.com/the-anatomy-of-http-redirects-301-302-307/<br>
