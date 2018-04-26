@@ -11,6 +11,7 @@ https://www.primefaces.org <br>
 
 ===========================Javascript===========================<br>
 https://github.com/TechBookHunter/Free-Web-Development-Books <br>
+https://github.com/transidai1705/javascript-ebooks
 https://mage2gen.com/
 
 
