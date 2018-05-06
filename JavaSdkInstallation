@@ -1,0 +1,37 @@
+http://docs.oracle.com/javase/tutorial
+
+http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
+
+C:\Program Files\Java
+
+open google
+
+type jdk 8 download
+
+goto http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html site
+
+accept license agreement 
+
+select jdk with respect to OS and bit size
+
+click on download
+
+paste that download in personal folder
+
+double click on that download
+
+click run
+
+click next until finish
+
+goto Control Panel\System and Security\System\advanced system setting
+
+environment variables
+
+system variables
+
+select path and click edit 
+
+add path of jdk\bin;
+
+close properties
