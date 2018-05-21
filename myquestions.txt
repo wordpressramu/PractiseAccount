@@ -1,0 +1,33 @@
+https://react.rocks/
+https://www.edureka.co/blog/interview-questions/python-interview-questions/
+https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6
+https://www.tutorialspoint.com/python/python_interview_questions.htm
+https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+
+http://www.techbeamers.com/python-interview-questions-programmers/
+https://data-flair.training/blogs/top-python-interview-questions-answer/
+https://career.guru99.com/top-25-python-interview-questions/
+https://www.hackerrank.com/domains/python/py-introduction
+
+https://intellipaat.com/interview-question/python-interview-questions/
+
+
+Angular
+https://coursetro.com/posts
+http://devarea.com/angular-5-services/#.WvqxO9eWbIU 
+
+Below is the best angular 5 tutorial, parallel you need to study the typescript
+https://coursetro.com/courses/19/Learn-Angular-5-from-Scratch---Angular-5-Tutorial
+
+Typescript
+https://www.typescriptlang.org/samples/index.html
+
+
+
+Later slowly you need to go on below
+Observables:
+https://dzone.com/articles/observables-with-the-angular-5
+
+Angular services:
+http://devarea.com/angular-5-services/#.WvqxO9eWbIU
+https://coursetro.com/posts/code/110/Creating-and-Using-Angular-5-Services
