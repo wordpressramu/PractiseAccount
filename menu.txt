@@ -1,0 +1,148 @@
+<html>
+<head>
+<!-- https://www.codeply.com/go/4FdZGlPMNV/bootstrap-4-custom-navbar-toggler-icon-color -->
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="custom.css">
+<style>
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+.footer {
+	left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+	padding-top:20px;	
+}
+.copy {
+    float: left;
+    padding: 81px 20px 0px;
+}
+</style>
+</head>
+
+<body
+
+<!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">Start Bootstrap</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+<div class="container"> 
+<div class='row'>&nbsp;</div>
+
+	<div class='row'>
+		<div class="col-sm-2">
+		<nav class="bg-white">
+			<a href="" class="navbar-brand d-sm-block d-md-none">Custom</a>	
+			<button class="navbar-toggler d-sm-block d-md-none" type="button" data-toggle="collapse" data-target="#demo" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				  <span class="navbar-toggler-icon"></span>
+			</button>
+			 <div id="demo" class="navbar-collapse">
+				<ul class="list-group">
+					<li><a href="subcat.php?Id=2" id="c2" class="coloured-menu" style="border-left: 5px solid #e4002b;"><span>Rain Umbrellas</span></a></li>
+					<li><a href="subcat.php?Id=3" id="c3" class="coloured-menu" style="border-left: 5px solid #d0df00;"><span>Patio Umbrellas</span></a></li>
+					<li><a href="subcat.php?Id=6" id="c4" class="coloured-menu" style="border-left: 5px solid #00b5e2;"><span>Glassware</span></a></li>
+					<li><a href="subcat.php?Id=4" id="c5" class="coloured-menu" style="border-left: 5px solid #fb637e;"><span>Plastic Stationery</span></a></li>
+					<li><a href="subcat.php?Id=39" id="c6" class="coloured-menu" style="border-left: 5px solid #ff9e1b;"><span>Lapel Pins</span></a></li>
+					<li><a href="subcat.php?Id=42" id="c7" class="coloured-menu" style="border-left: 5px solid #ad1aac;"><span>Coins / Medallions</span></a></li>
+					<li><a href="subcat.php?Id=41" id="c8" class="coloured-menu" style="border-left: 5px solid #fedd00;"><span>Keychains</span></a></li>
+					<li><a href="subcat.php?Id=38" id="c9" class="coloured-menu" style="border-left: 5px solid #307fe2;"><span>Embroidery</span></a></li>
+					<li><a href="subcat.php?Id=44" id="c10" class="coloured-menu" style="border-left: 5px solid #f93822;"><span>Lanyards</span></a></li>
+					<li><a href="subcat.php?Id=43" id="c11" class="coloured-menu" style="border-left: 5px solid #00ab84;"><span>Silicone Wristbands</span></a></li>
+					<li><a href="subcat.php?Id=7" id="c12" class="coloured-menu" style="border-left: 5px solid #ffc72c;"><span>Inflatables</span></a></li>
+					<li><a href="subcat.php?Id=5" id="c13" class="coloured-menu" style="border-left: 5px solid #d539b5;"><span>Bags</span></a></li>
+					<li><a href="subcat.php?Id=8" id="c14" class="coloured-menu" style="border-left: 5px solid #babc16;"><span>Direct Imports</span></a></li>
+					<li><a href="usa_made.php" id="c38" class="coloured-menu" style="border-left: 5px solid #2759BC;">USA Made</a></li>
+					<li><a href="items_page.php" id="c1" class="coloured-menu" style="border-left: 5px solid #7FFF03;">Best Sellers</a></li>
+				</ul>
+			</div>
+			</nav>
+		</div>
+		<div class="col-sm-10 border">
+			test<br>
+		</div>
+	</div>
+				<div class="row bg-white">
+				<div class="col-lg-12 text-center">
+					 <a href="https://www.sagemember.com/sgadmin.exe/SuppRate?S=68810" target="_blank">
+						<img class="img-circle img-fluid " src="http://www.ben-line.com/img/sage_bt_o.gif" >
+					</a>
+
+				 <a href="http://www.asicentral.com/login.aspx?ReturnUrl=%2fasp%2fprotected%2fapps%2fsupplierratings%2fsupplierrating.asp" target="_blank" >
+					<img style="padding-top: 40px;" class="img-circle img-fluid " src="http://www.ben-line.com/img/asi_rate_bt_o.gif" >
+				 </a>
+					
+					 <a href="https://www.sagemember.com/sgadmin.exe/SuppRate?S=68810" target="_blank">
+						<img class="img-circle img-fluid " src="http://www.ben-line.com/img/sage_bt_o.gif" >
+					</a>
+				 <a href="http://www.asicentral.com/login.aspx?ReturnUrl=%2fasp%2fprotected%2fapps%2fsupplierratings%2fsupplierrating.asp" target="_blank" >
+					<img style="padding-top: 40px;" class="img-circle img-fluid " src="http://www.ben-line.com/img/asi_rate_bt_o.gif" >
+				 </a>
+				 </div>
+			 </div>
+</div>
+<!-- Footer -->
+    <footer class="footer">
+      <div class="container text-center text-primary ">
+			 Copyright © 2018 Ben-Line. All Rights Reserved   | <a href="./">Home</a> | <a href="about_us.php">About Us</a> | <a href="privacy.php">Privacy/Security</a>
+      </div>
+    </footer>
+</body>
+</html>
