@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+	$( "#gst" ).keyup(function() {
+		if ($(this).val().length==2){
+			var statecode = $(this).val().substring(0, 2);
+			var state = parseInt(statecode); 
+			//FIRST 2 CHARACTERS STATE CODE
+			if( !$.isNumeric(statecode) || ( $.isNumeric(statecode) && (state < 1 || state > 37))){
+				if (confirm('Invalid First Two Characters of GSTIN You want to Continue')) {
+					return true;
+				} else {
+					$(this).val('');
+					return false;
+				}
+			}
+		}
+	});
+});
+</script>
+</head>
+<body>
+
+<input type='text' id ='gst'>
+
+</body>
+</html>
